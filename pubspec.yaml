@@ -1,4 +1,4 @@
-name: model_crafter
+name: dart_model_crafter
 description: A creative and intuitive Dart package to craft Dart models effortlessly from JSON or manual input.
 version: 1.0.0
 # repository: https://github.com/ddr137/model_crafter

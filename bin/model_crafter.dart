@@ -1,6 +1,6 @@
 import 'dart:io';
 import 'package:ansicolor/ansicolor.dart';
-import 'package:model_crafter/model_crafter.dart' as json_to_model;
+import 'package:dart_model_crafter/model_crafter.dart' as json_to_model;
 
 void main(List<String> arguments) {
   // Inisialisasi pen warna
@@ -12,7 +12,7 @@ void main(List<String> arguments) {
   // Header
   print(yellowPen('=========================================='));
   print(yellowPen('||                                      ||'));
-  print(yellowPen('||          🚀 Model Crafer 🚀          ||'));
+  print(yellowPen('||        🚀 Dart Model Crafer 🚀       ||'));
   print(yellowPen('||   Effortless Dart Model Generation!  ||'));
   print(yellowPen('||                                      ||'));
   print(yellowPen('=========================================='));
