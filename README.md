@@ -1,3 +1,3 @@
-# Model Crafter
+# Dart Model Crafter
 
-CLI to generate Dart models from JSON or manual input
+A creative and intuitive Dart package to craft Dart models effortlessly from JSON or manual input.
