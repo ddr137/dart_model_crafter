@@ -16,4 +16,4 @@ dev_dependencies:
   test: ^1.24.0
 
 executables:
-  dart_model_crafter: dart_model_crafter
+  dart_model_crafter:
